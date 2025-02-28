@@ -27,7 +27,8 @@ I'm a Senior AI Chatbot Developer & Automation Specialist with 3+ years of exper
 <div align="left">
   <a href="https://www.instagram.com/shaban._.here?igsh=Z2IyZGtkYmJneGs4" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discordapp.com/users/dev.shaban" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
   <a href="mailto:shabanulhaq.logixa@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
   <a href="https://www.linkedin.com/in/shaban-ul-haq/" target="_blank">
